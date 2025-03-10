@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399050561274",
+    "project_id": "womensafe-1a65a",
+    "storage_bucket": "womensafe-1a65a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399050561274:android:b720fe83304407176d9b43",
+        "android_client_info": {
+          "package_name": "com.example.womensafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399050561274-14dc2td9o11pevbje1rtkpj60th206dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.womensafe",
+            "certificate_hash": "057881008e9b4b085cd06e9285fc684ce8c4736c"
+          }
+        },
+        {
+          "client_id": "399050561274-i88n58br4gcqg5m857a9276kfl0691v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7fHqBNwX2MOPXRWZYX_e1-UKTMmMNFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399050561274-i88n58br4gcqg5m857a9276kfl0691v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
